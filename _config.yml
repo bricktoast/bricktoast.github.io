@@ -44,13 +44,14 @@ header:
       - name: About  # <-- about.md
       - name: Dissertation Defense Email List  # <-- dissertation-defense-email-list.md
       - name: Video Appearances  # <-- video-appearances.md
+      - name: CV  # <-- cv.md
 
 footer:
   show_powered_by: true
   contact:
     - type: email
-      name: megangrace@g.ucla.edu
-      value: megangrace@g.ucla.edu
+      name: megangrace[at]g.ucla.edu
+      value: megangrace[at]g.ucla.edu
     - type: linkedin
       name: LinkedIn
       link: http://linkedin.com/in/megangraceli
