@@ -1,15 +1,15 @@
 ---
 layout: page
-title: hobda cv
+title: CV
 ---
 
-Megan Grace Li
+# Megan Grace Li
 
-2339 Indian Creek Road, Diamond Bar, CA, 91765
+Los Angeles, CA
 
-megangrace@g.ucla.edu (909) 437 - 8890
+megangrace@g.ucla.edu 
 
- EDUCATION 
+##  EDUCATION 
 
 PhD in Planetary Science (in progress) 			 Expected Completion: 2027
 
@@ -31,7 +31,7 @@ University of California, San Diego
 
 
 
-PUBLICATIONS
+## PUBLICATIONS
 
 Megan G. Li, Sofia Z. Sheikh, Christian Gilbertson, et al. (2023).  Developing a Drift Rate Distribution for Technosignature Searches of Exoplanets. The Astronomical Journal, 166(5), 182. https://doi.org/10.3847/1538-3881/acf83d 
 
@@ -71,7 +71,7 @@ Distinguished Undergraduate Honorable Mention
 
 
 
-RESEARCH EXPERIENCE
+## RESEARCH EXPERIENCE
 
   Graduate Student Researcher -							2022-Present
 
@@ -95,13 +95,17 @@ Designed an infrared color criterion to search for active galactic nuclei in 15,
 
 Implemented a modified Monte-Carlo simulation to estimate the noise of galaxy maps
 
-TEACHING EXPERIENCE  Teaching Assistant - UCLA Department of Earth, Planetary, and Space Sciences	      Fall 2024	    Astrobiology
+## TEACHING EXPERIENCE
+
+  Teaching Assistant - UCLA Department of Earth, Planetary, and Space Sciences	      Fall 2024	    Astrobiology
 
 Supplemental Instruction Leader - UCSD Academic Achievement Hub		     2019-2021
 
 Designed and facilitated active-learning group sessions for math and physics classes 
 
-LEADERSHIP AND OUTREACHSETI Institute Technosignature Study Analysis Group				      2024-
+## LEADERSHIP AND OUTREACH
+
+SETI Institute Technosignature Study Analysis Group				      2024-
 
 Executive Secretary of Steering Committee
 
@@ -141,7 +145,9 @@ Vice President										2020-2021
 
 President										2021-2022	
 
-PRESENTATIONSLi, Megan G. and Margot, Jean-Luc. ?Are we alone in the universe? - A Citizen Science Collaboration.? American Astronomical Society 2024
+## PRESENTATIONS
+
+Li, Megan G. and Margot, Jean-Luc. ?Are we alone in the universe? - A Citizen Science Collaboration.? American Astronomical Society 2024
 
 Li, Megan G. and Margot, Jean-Luc. ?Are we alone in the universe? - A Citizen Science Collaboration.? Interstellar Frontiers 2024
 
