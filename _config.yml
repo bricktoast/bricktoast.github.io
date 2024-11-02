@@ -39,10 +39,10 @@ header:
     pages:
       - name: Home
         slug: /     # <-- index.md
-      - name: Blog  # <-- blog.md
+      - #name: Blog  # <-- blog.md
       - name: Publications  # <-- publications.md
       - name: About  # <-- about.md
-      - name: Dissertation Defense Email List  # <-- dissertation-defense-email-list.md
+      - name: Dissertation Email List  # <-- dissertation-email-list.md
       - name: Video Appearances  # <-- video-appearances.md
       - name: CV  # <-- cv.md
 
@@ -51,7 +51,8 @@ footer:
   contact:
     - type: email
       name: megangrace[at]g.ucla.edu
-      value: megangrace[at]g.ucla.edu
+      value: megangrace@g.ucla.edu
+      copy: true
     - type: linkedin
       name: LinkedIn
       link: http://linkedin.com/in/megangraceli

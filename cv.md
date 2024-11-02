@@ -1,15 +1,18 @@
 ---
-layout: page
+layout: default
 title: CV
 ---
 
 # Megan Grace Li
+{: style="text-align: center;"}
 
 Los Angeles, CA
+{: style="text-align: center;"}
 
-megangrace@g.ucla.edu 
+megangrace@g.ucla.edu
+{: style="text-align: center;"}
 
-##  EDUCATION 
+## EDUCATION 
 
 PhD in Planetary Science (in progress) 			 Expected Completion: 2027
 
@@ -69,19 +72,23 @@ Distinguished Undergraduate Honorable Mention
 
 
 
-
+
+
 
 ## RESEARCH EXPERIENCE
 
   Graduate Student Researcher -							2022-Present
 
-UCLA Department of Earth, Planetary, and Space Sciences                                   Mentored by Professor Jean-Luc Margot	Spearheading and monitoring citizen science project, arewealone.earth
+UCLA Department of Earth, Planetary, and Space Sciences                                   
+Mentored by Professor Jean-Luc Margot
+	Spearheading and monitoring citizen science project, arewealone.earth
 
 Formulated calculations for existence limits of extraterrestrial civilizations 
 
 Processed several terabytes of data taken by the Green Bank Telescope 
 
-REU Intern - Berkeley SETI Research Center         					June-Aug 2021                           Mentored by Dr. Sofia Sheikh
+REU Intern - Berkeley SETI Research Center         					June-Aug 2021                           
+Mentored by Dr. Sofia Sheikh
 
 Quantified 80,000 drift rates for exoplanets in the NASA Exoplanet Archive
 
@@ -89,7 +96,8 @@ Simulated a population of exoplanets and calculated the simulated drift rates
 
 Designed a criterion to predict which planets could host life
 
-Undergraduate Researcher - UCSD Center for Astrophysics and Space Sciences        2019-2022Mentored by Professor Karin Sandstrom  
+Undergraduate Researcher - UCSD Center for Astrophysics and Space Sciences        2019-2022
+Mentored by Professor Karin Sandstrom  
 
 Designed an infrared color criterion to search for active galactic nuclei in 15,000 galaxies
 
@@ -147,23 +155,23 @@ President										2021-2022
 
 ## PRESENTATIONS
 
-Li, Megan G. and Margot, Jean-Luc. ?Are we alone in the universe? - A Citizen Science Collaboration.? American Astronomical Society 2024
+Li, Megan G. and Margot, Jean-Luc. "Are we alone in the universe? - A Citizen Science Collaboration." American Astronomical Society 2024
 
-Li, Megan G. and Margot, Jean-Luc. ?Are we alone in the universe? - A Citizen Science Collaboration.? Interstellar Frontiers 2024
+Li, Megan G. and Margot, Jean-Luc. "Are we alone in the universe? - A Citizen Science Collaboration." Interstellar Frontiers 2024
 
-Li, Megan G. ?SETI at UCLA.? Penn State SETI Seminar - Invited Talk 2023
+Li, Megan G. "SETI at UCLA." Penn State SETI Seminar - Invited Talk 2023
 
-Li, Megan G. and Margot, Jean-Luc. ?Are we alone in the universe? - A Citizen Science Collaboration.? Penn State SETI Symposium 2023
+Li, Megan G. and Margot, Jean-Luc. "Are we alone in the universe? - A Citizen Science Collaboration." Penn State SETI Symposium 2023
 
-Li, Megan G. and Margot, Jean-Luc. ?Are we alone in the universe? - A Citizen Science Collaboration.? American Astronomical Society 2023
+Li, Megan G. and Margot, Jean-Luc. "Are we alone in the universe? - A Citizen Science Collaboration." American Astronomical Society 2023
 
-Li, Megan G., Sheikh, Sofia Z., and Isaacson, Howard. ?Developing a Drift Rate Distribution for Technosignature Searches of Exoplanets.? First Penn State SETI Symposium 2022
+Li, Megan G., Sheikh, Sofia Z., and Isaacson, Howard. "Developing a Drift Rate Distribution for Technosignature Searches of Exoplanets." First Penn State SETI Symposium 2022
 
-Li, Megan G., Sheikh, Sofia Z., and Isaacson, Howard. ?Developing a Drift Rate Distribution for Technosignature Searches of Exoplanets.? Breakthrough Listen Advisory Board Meeting 2022
+Li, Megan G., Sheikh, Sofia Z., and Isaacson, Howard. "Developing a Drift Rate Distribution for Technosignature Searches of Exoplanets." Breakthrough Listen Advisory Board Meeting 2022
 
-Li, Megan G. and Sandstrom, Karin M. ?Active Galactic Nuclei? University of California, San Diego Undergraduate Research Conference 2021 Plenary Talk
+Li, Megan G. and Sandstrom, Karin M. "Active Galactic Nuclei" University of California, San Diego Undergraduate Research Conference 2021 Plenary Talk
 
-Li, Megan G. and Sandstrom, Karin M. ?Active Galactic Nuclei? University of California, San Diego Online Undergraduate Research Symposium 2020 Keynote Panelist
+Li, Megan G. and Sandstrom, Karin M. "Active Galactic Nuclei" University of California, San Diego Online Undergraduate Research Symposium 2020 Keynote Panelist
 
 
 
