@@ -5,7 +5,7 @@ profile_picture:
   alt: Profile Picture
 ---
 
-Greetings Earthlings!
+Greetings, Earthlings!
 
 I'm Megan, and I am a graduate student at the University of California, Los Angeles working on my PhD. My thesis will focus on using machine learning to improve the search for extraterrestrial intelligence (SETI).
 
