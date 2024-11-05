@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# *So, how does someone just decide to look for ET?*
+# *So, what makes someone decide to look for ET?*
 
 <div style="text-align: center">
   <a href="#faq" class="skip-link">Skip to FAQ</a>
