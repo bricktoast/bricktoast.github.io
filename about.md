@@ -38,5 +38,4 @@ Today, I am still highly allergic to peanuts, tree nuts, and insect stings. I al
 
 **Have you found aliens yet?**
 
-You would know if I had.
 
