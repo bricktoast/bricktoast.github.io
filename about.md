@@ -12,7 +12,8 @@ permalink: /about/
 
 I was born with life-threatening allergies so severe that several doctors have called me the worst case they’ve encountered. From birth, I was allergic to peanuts, tree nuts, dairy, eggs, wheat, soy, fish, shellfish, and countless other substances—some I can’t even remember now. Contact with these allergens often led to severe and life-threatening anaphylactic reactions. 
 
-<figure style="float:right; margin: 10px 10px 10px 30px auto; width: 300px;">
+
+<figure style="float:right; margin: 30px 30px 30px 40px; width: 300px;">
   <img src="/assets/img/baby pic w eczema.jpeg" alt="Me, two days after birth, enjoying my first Thanksgiving, covered in eczema." width="300">
   <figcaption>Me, two days after birth, enjoying my first Thanksgiving, covered in eczema.</figcaption>
 </figure>
