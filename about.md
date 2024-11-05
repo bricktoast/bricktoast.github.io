@@ -22,7 +22,7 @@ These experiences taught me early on that I deserved to be treated with dignity 
 
 Years later, as a woman in STEM, I found similar challenges. Once again, I had to embrace being “loudly different,” even when it was difficult. But I am no longer that fearful child learning to speak up. I am still the curious girl who asked her grandmother about the world and her grandfather about the stars, but now I am driven by a deeper purpose.
 
-Today, as a marginalized identity in STEM, I am acutely aware of the need for scientific [outreach.](megangrace.li/outreach) To me, SETI—the Search for Extraterrestrial Intelligence—is a form of outreach within astronomy. It represents our willingness to embrace the unknown, hoping we will encounter beings who are “loudly different” and letting them know they are not alone.
+Today, as a marginalized identity in STEM, I am acutely aware of the need for scientific [outreach.](/outreach) To me, SETI—the Search for Extraterrestrial Intelligence—is a form of outreach within astronomy. It represents our willingness to embrace the unknown, hoping we will encounter beings who are “loudly different” and letting them know they are not alone.
 
 # FAQ
 
@@ -34,7 +34,7 @@ On a more practical note, there are many Megan Li's in the world, and I want to 
 
 **What are you still allergic to now?**
 
-Today, I am still highly allergic to peanuts, tree nuts, and insect stings. I also have a few other allergies that are not immediately life-threatening, but still annoying. These include latex, roses, anything with a fragrance, lavender, doxycyline, formaldehyde, nickel, cobalt, bronopol (which is in makeup), tattoo ink (including henna), p-phenylenediamine (which we use in hair dye), the entirety of the Bay Area for reasons I still do not understand, and a few others which I can't remember offhand.
+Today, I am still highly allergic to peanuts, tree nuts, and insect stings. I also have a few other allergies that are not immediately life-threatening, but often life-threatening in a delayed fashion. These include latex, roses, anything with a fragrance, lavender, doxycyline, formaldehyde, nickel, cobalt, bronopol (which is in makeup), tattoo ink (including henna), p-phenylenediamine (which we use in hair dye), the entirety of the Bay Area for reasons I still do not understand, and a few others which I can't remember offhand.
 
 **Have you found aliens yet?**
 
