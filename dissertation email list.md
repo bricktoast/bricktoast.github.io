@@ -1,4 +1,4 @@
- I would like to invite all of you to attend my dissertation defense. At the defense, I will present for an hour on ET and AI. Afterward, you will have the opportunity to ask me any and all questions you can think of. The defense will be in person at UCLA and on Zoom! Ideally, it will end with a party.
+Join me for my dissertation defense on ET and AI! I’ll present my research for about an hour, followed by an open Q&A where you can ask anything you’d like. The defense will be held at UCLA and streamed on Zoom. Let’s celebrate together afterward (no matter how it goes!)
 
 Please leave your email address below so I can let you know when the time has come. 
 
