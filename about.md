@@ -10,7 +10,7 @@ permalink: /about/
   <a href="#faq" class="skip-link">Skip to FAQ</a>
 </div>
 
-I was born with life-threatening allergies so severe that several doctors have called me the worst case they’ve encountered. From birth, I was allergic to peanuts, tree nuts, dairy, eggs, wheat, soy, fish, shellfish, and countless other substances—some I can’t even remember now. Physical contact with these allergens often led to severe anaphylactic reactions, which, in infancy, were not only frightening but life-threatening.
+I was born with life-threatening allergies so severe that several doctors have called me the worst case they’ve encountered. From birth, I was allergic to peanuts, tree nuts, dairy, eggs, wheat, soy, fish, shellfish, and countless other substances—some I can’t even remember now. Contact with these allergens often led to severe and life-threatening anaphylactic reactions.
 
 In the early 2000s, food allergies were rarely taken seriously. They were often the butt of jokes on TV shows, dismissed by adults, or trivialized as quirks of “weird, nerdy kids.” Many people around me simply did not believe I was truly allergic. As a result, I spent the first five years of my life essentially quarantined. Being out of my parents’ sight was not an option; a simple touch from another child who had eaten a PB&J could have been fatal.
 
@@ -20,7 +20,7 @@ By second grade, I was stable enough to attend public school. Armed with two Epi
 
 These experiences taught me early on that I deserved to be treated with dignity and respect, and that advocating for myself—even if uncomfortable—was non-negotiable. Standing up to adults, people meant to protect me, became a part of my identity. My disability forced me to be “loudly different,” even when I longed for quiet acceptance.
 
-Years later, as a woman in STEM, I found similar challenges. Once again, I had to embrace being “loudly different,” even when it was difficult. But I am no longer that fearful child learning to speak up. I am still the curious girl who asked her grandmother about the world and her grandfather about the stars, but now I am driven by a deeper purpose.
+Years later, as a woman in STEM, I found similar challenges. Once again, I had to embrace being “loudly different,” even when it was difficult. But I am no longer that fearful child learning to speak up. I am, however, still the curious girl who asked her grandmother about the world and her grandfather about the stars.
 
 Today, as a marginalized identity in STEM, I am acutely aware of the need for scientific [outreach.](/outreach) To me, SETI—the Search for Extraterrestrial Intelligence—is a form of outreach within astronomy. It represents our willingness to embrace the unknown, hoping we will encounter beings who are “loudly different” and letting them know they are not alone.
 
