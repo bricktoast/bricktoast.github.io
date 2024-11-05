@@ -78,3 +78,8 @@ footer:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Add this line to your config
+favicon: /favicon.ico
+# Add this line to your config
+favicon: /favicon.png

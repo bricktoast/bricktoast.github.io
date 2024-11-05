@@ -48,7 +48,9 @@ Megan G. Li, Karin M. Sandstrom, and Adam K. Leroy. (2022). A Resolved Search fo
 
 
 
-SELECTED SCHOLARSHIPS AND AWARDS UCLA Eugene V. Cota-Robles Fellow 	    						2022-2026
+## SELECTED SCHOLARSHIPS AND AWARDS 
+
+UCLA Eugene V. Cota-Robles Fellow 	    						2022-2026
 
 UCLA Excellence in Science Communication Award $1000				2024
 
