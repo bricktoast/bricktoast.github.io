@@ -2,7 +2,7 @@ Join me for my dissertation defense on ET and AI! I’ll present my research for
 
 Please leave your email address below so I can let you know when the time has come. 
 
-PS- A few of my friends and family have committed to dressing up as different eras of my life. Let me know if you need some ideas.
+PS- A few of my friends and family have committed to dressing up as different eras of my life. Let me know if you would like some ideas.
 <style>
 label {
   display: block;
