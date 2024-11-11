@@ -49,5 +49,5 @@ At UCSD, I served as the Outreach Coordinator for the Society of Physics Student
 
 ## UCSD Astronomy Club
 
-While at UCSD, I served as the President of the Astronomy Club. This is a photo of my friend Roy and I using a solar telescope on a busy walkway on campus to attact new members.
+While at UCSD, I served as the President of the Astronomy Club. This is a photo of my friend Roy and me using a solar telescope on a busy walkway on campus to attact new members.
 <img src="/assets/img/astronomyclub.png"  style="float: left; margin-right: 20px; margin-bottom: 10px; max-width: 300px;">
