@@ -28,10 +28,11 @@ EFMP was founded by my friend and classmate, [Dr. Valeria Jaramillo](https://sco
 
 ## The Order of the Octopus
 
-The Order of the Octopus is a community for early-career researchers in SETI. It was founded by one of my research mentors, [Dr. Sofia Sheikh](https://www.seti.org/our-scientists/sofia-sheikh). In August of 2024, I served on the Science Organizing Committee for the Order's first in-person conference.
-
 <img src="/assets/img/ooto.png"  style="float: right; margin-left: 20px; margin-bottom: 10px; max-width: 300px;">
 <figcaption style="float: right; clear: right; margin-right: 20px; max-width: 300px; text-align: center;">My friend Barbara Cabrales and me at the Order of the Octopus conference in August 2024 atop the Green Bank Telescope.</figcaption>
+
+The Order of the Octopus is a community for early-career researchers in SETI. It was founded by one of my research mentors, [Dr. Sofia Sheikh](https://www.seti.org/our-scientists/sofia-sheikh). In August of 2024, I served on the Science Organizing Committee for the Order's first in-person conference.
+
 
 # Past Outreach Projects
 
