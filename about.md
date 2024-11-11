@@ -48,7 +48,7 @@ Names in academia carry a lot of weight. When I publish my name on a paper or pr
 
 On a more practical note, there are many Megan Li's in the world, and I want to make sure you can find me.
 
-**What are you still allergic to now?**
+**What are you still allergic to?**
 
 Today, I am still highly allergic to peanuts, tree nuts, and insect stings. I also have a few other allergies that are not immediately life-threatening, but often life-threatening in a delayed fashion. These include latex, roses, anything with a fragrance, lavender, doxycyline, formaldehyde, nickel, cobalt, bronopol (which is in makeup), tattoo ink (including henna), p-phenylenediamine (which we use in hair dye), the entirety of the Bay Area for reasons I still do not understand, and a few others which I can't remember offhand.
 
