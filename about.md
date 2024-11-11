@@ -10,7 +10,7 @@ permalink: /about/
   <a href="#faq" class="skip-link">Skip to FAQ</a>
 </div>
 
-I was born with life-threatening allergies so severe that several doctors have called me the worst case they’ve encountered. From birth, I was allergic to peanuts, tree nuts, dairy, eggs, wheat, soy, fish, shellfish, and countless other substances—some I can’t even remember now. Contact with these allergens often led to severe and life-threatening anaphylactic reactions. 
+I was born with life-threatening allergies so severe that several doctors have called me the worst case they had ever encountered. From birth, I was allergic to peanuts, tree nuts, dairy, eggs, wheat, soy, fish, shellfish, and countless other substances—some I can’t even remember now. Contact with these allergens often led to severe and life-threatening anaphylactic reactions. 
 
 
 <figure style="float:right; margin: 30px 30px 30px 40px; width: 300px;">
