@@ -5,8 +5,8 @@ I was incredibly fortunate to have a family who understood and supported my jour
 # Current Outreach Projects
 
 ## Are we alone in the universe?
-<img src="/assets/img/arewealone.png" alt="Are we alone in the universe? website screenshot" style="float: left; margin-right: 20px; margin-bottom: 10px; max-width: 300px;">
-<figcaption style="float: left; clear: left; margin-right: 20px; max-width: 300px; text-align: center;">A sneak peak of what you would see if you volunteered for Are we alone?</figcaption>
+<img src="/assets/img/arewealone.png" alt="Are we alone in the universe? website screenshot" style="float: left; margin: 10px 30px 10px 0; margin-bottom: 10px; max-width: 300px;">
+<figcaption style="float: left; clear: left; margin: 10px 30px 10px   0; max-width: 300px; text-align: center;">A sneak peak of what you would see if you volunteered for Are we alone?</figcaption>
 
 I cannot begin to express the excitement I felt when I was looking for a graduate program in SETI and found out that Jean-Luc Margot had a position at UCLA that combined SETI with outreach. Thanks to his efforts, my PhD thesis will be intertwined with a volunteer science project known as ["Are we alone in the universe?".](arewealone.earth)
 
@@ -24,8 +24,8 @@ EYU is run by grad students committed to giving every child a fair chance at exp
 
 ## Earth, Planetary, and Space Science Family Mentorship Program (EFMP)
 
-<img src="/assets/img/ooto.png"  style="float: left; margin-left: 20px; margin-bottom: 10px; max-width: 300px;">
-<figcaption style="float: right; clear: left; margin-right: 20px; max-width: 300px; text-align: center;">My friend Barbara Cabrales and me at the Order of the Octopus conference in August 2024 atop the Green Bank Telescope.</figcaption>
+<img src="/assets/img/ooto.png"  style="float: left; margin: 10px 30px 10px 0; margin-bottom: 10px; max-width: 300px;">
+<figcaption style="float: left; clear: left; margin: margin: 10px 30px 10px 0; max-width: 300px; text-align: center;">My friend Barbara Cabrales and me at the Order of the Octopus conference in August 2024 atop the Green Bank Telescope.</figcaption>
 
 EFMP was founded by my friend and classmate, [Dr. Valeria Jaramillo](https://scope.asu.edu/valeria-jaramillo/). EFMP matches UCLA Earth, Planetary, and Space Science graduate students with undergraduate students in "Families" that typically have a senior grad student (4th or 5th year), a junior grad student (1st-3rd year), an undergraduate Freshman/Sophomore, and an undergraduate Junior/Senior. The families are often matched by research interests, so that the more junior students can get a glimpse into future career paths and the more senior students can gain meaningful mentorship experience. I will become the EFMP coordinator in the Winter of 2025.
 
