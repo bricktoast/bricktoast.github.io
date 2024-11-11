@@ -14,7 +14,7 @@ As we speak, users of Are we alone? are creating the training data for the machi
 
 ## Exploring Your Universe
 <img src="/assets/img/eyu.png" alt="The Organizing Board in 2023 -  I'm front and center." style="float: right; margin-left: 20px; margin-bottom: 10px; max-width: 300px;">
-<figcaption style="float: right; clear: right; margin-right: 20px; max-width: 300px; text-align: center;">The Exploring Your Universe Organizing Board in 2023 I'm front and center.</figcaption>
+<figcaption style="float: right; clear: right; margin-right: 20px; max-width: 300px; text-align: center;">The Exploring Your Universe Organizing Board in 2023 - I'm front and center.</figcaption>
 
 [Exploring Your Universe](exploringyouruniverse.ucla.edu) is UCLA's largest science fair. For the past three years, I have helped run the event, most recently as the coordinator of our 74 science fair booths. It is estimated that over 10,000 people attend the event each year.
 
