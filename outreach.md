@@ -37,12 +37,11 @@ The Order of the Octopus is a community for early-career researchers in SETI. It
 # Past Outreach Projects
 
 ## Big Sister STEM
+<img src="/assets/img/bigsisterstem.png"  style="float: right; margin-left: 20px; margin-bottom: 10px; max-width: 300px;">
+<figcaption style="float: right; clear: right; margin-right: 20px; max-width: 300px; text-align: center;">One of our group events where we extracted DNA from strawberries, me as active speaker.</figcaption>
 
 Big Sister STEM is a nonprofit organization that I founded in 2020 to provide free virtual STEM mentorship to girls in middle school and high school. During the peak of quarantine, I found it important to offer support these girls as they navigated the transition to online learning. I ran Big Sister STEM until 2023, when I handed it off to Gillian McMahon, who was a wonderful successor. During my time as President, we fostered over 30 successful mentorships.
 
-
-<img src="/assets/img/bigsisterstem.png"  style="float: right; margin-left: 20px; margin-bottom: 10px; max-width: 300px;">
-<figcaption style="float: right; clear: right; margin-right: 20px; max-width: 300px; text-align: center;">One of our group events where we extracted DNA from strawberries, me as active speaker.</figcaption>
 
 ## Society of Physics Students at UCSD
 
@@ -50,5 +49,7 @@ At UCSD, I served as the Outreach Coordinator for the Society of Physics Student
 
 ## UCSD Astronomy Club
 
-While at UCSD, I served as the President of the Astronomy Club. This is a photo of my friend Roy and me using a solar telescope on a busy walkway on campus to attact new members.
 <img src="/assets/img/astronomyclub.png"  style="float: left; margin-right: 20px; margin-bottom: 10px; max-width: 300px;">
+<figcaption style="float: left; clear: left; margin-right: 20px; max-width: 300px; text-align: center;">Join the UCSD Astronomy Club!</figcaption>
+
+While at UCSD, I served as the President of the Astronomy Club. I hosted stargazing nights and invited speakers to give talks. This is a photo of my friend Roy and me using a solar telescope on a busy walkway on campus to attact new members.
