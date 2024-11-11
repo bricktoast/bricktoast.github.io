@@ -43,7 +43,7 @@ Names in academia carry a lot of weight. When I publish my name on a paper or pr
 
 <figure style="display: block; margin: 0 auto; width: 300px;">
   <img src="/assets/img/polaroidwithparents.png" alt="Me with my parents." width="300">
-  <figcaption>My parents and me celebrating my Master's degree.</figcaption>
+  <figcaption>My parents and I celebrating my Master's degree.</figcaption>
 </figure>
 
 On a more practical note, there are many Megan Li's in the world, and I want to make sure you can find me.
