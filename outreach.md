@@ -24,12 +24,12 @@ EYU is run by grad students committed to giving every child a fair chance at exp
 
 ## Earth, Planetary, and Space Science Family Mentorship Program (EFMP)
 
+<img src="/assets/img/ooto.png"  style="float: right; margin-left: 20px; margin-bottom: 10px; max-width: 300px;">
+<figcaption style="float: right; clear: right; margin-right: 20px; max-width: 300px; text-align: center;">My friend Barbara Cabrales and me at the Order of the Octopus conference in August 2024 atop the Green Bank Telescope.</figcaption>
+
 EFMP was founded by my friend and classmate, [Dr. Valeria Jaramillo](https://scope.asu.edu/valeria-jaramillo/). EFMP matches UCLA Earth, Planetary, and Space Science graduate students with undergraduate students in "Families" that typically have a senior grad student (4th or 5th year), a junior grad student (1st-3rd year), an undergraduate Freshman/Sophomore, and an undergraduate Junior/Senior. The families are often matched by research interests, so that the more junior students can get a glimpse into future career paths and the more senior students can gain meaningful mentorship experience. I will become the EFMP coordinator in the Winter of 2025.
 
 ## The Order of the Octopus
-
-<img src="/assets/img/ooto.png"  style="float: right; margin-left: 20px; margin-bottom: 10px; max-width: 300px;">
-<figcaption style="float: right; clear: right; margin-right: 20px; max-width: 300px; text-align: center;">My friend Barbara Cabrales and me at the Order of the Octopus conference in August 2024 atop the Green Bank Telescope.</figcaption>
 
 The Order of the Octopus is a community for early-career researchers in SETI. It was founded by one of my research mentors, [Dr. Sofia Sheikh](https://www.seti.org/our-scientists/sofia-sheikh). In August of 2024, I served on the Science Organizing Committee for the Order's first in-person conference.
 
