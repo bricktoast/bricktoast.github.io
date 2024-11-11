@@ -23,7 +23,7 @@ I did a quick little interview with the [Cosmic Leap Foundation](https://www.cos
 
 <br>
 
-I was a finalist in UCLA's Grad Slam 2024, a speaking competition for graduate students in which you have exactly 3 minutes to explain your dissertation. Though I did not win, this is one of the best talks I have ever given, and I am so glad I got to have this experience.
+I was a finalist in UCLA's Grad Slam 2024, a speaking competition for graduate students in which you have exactly 3 minutes to explain your dissertation. Though I did not win, this is one of the best talks I have ever given, and I am so grateful I got to have this experience.
 
 <div style="display: flex; justify-content: center;">
     <iframe 
