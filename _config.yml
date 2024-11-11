@@ -39,10 +39,10 @@ header:
     pages:
       - name: Home
         slug: /     # <-- index.md
-      - name: Publications  # <-- publications.md
       - name: About  # <-- about.md
       - name: Dissertation Email List  # <-- dissertation-email-list.md
-      - name: Video Appearances  # <-- video-appearances.md
+      - name: Outreach  # <-- outreach.md
+      - name: In the Media  # <-- video-appearances.md
       - name: CV  # <-- cv.md
 
 footer:

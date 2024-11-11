@@ -73,13 +73,9 @@ Universities Space Research Association 						2020
 Distinguished Undergraduate Honorable Mention 
 
 
-
-
-
-
 ## RESEARCH EXPERIENCE
 
-  Graduate Student Researcher -							2022-Present
+**Graduate Student Researcher -**							2022-Present
 
 UCLA Department of Earth, Planetary, and Space Sciences                                   
 Mentored by Professor Jean-Luc Margot
@@ -89,7 +85,7 @@ Formulated calculations for existence limits of extraterrestrial civilizations
 
 Processed several terabytes of data taken by the Green Bank Telescope 
 
-REU Intern - Berkeley SETI Research Center         					June-Aug 2021                           
+**REU Intern - Berkeley SETI Research Center**         					June-Aug 2021                           
 Mentored by Dr. Sofia Sheikh
 
 Quantified 80,000 drift rates for exoplanets in the NASA Exoplanet Archive
@@ -98,7 +94,7 @@ Simulated a population of exoplanets and calculated the simulated drift rates
 
 Designed a criterion to predict which planets could host life
 
-Undergraduate Researcher - UCSD Center for Astrophysics and Space Sciences        2019-2022
+**Undergraduate Researcher - UCSD Center for Astrophysics and Space Sciences**        2019-2022
 Mentored by Professor Karin Sandstrom  
 
 Designed an infrared color criterion to search for active galactic nuclei in 15,000 galaxies
@@ -115,17 +111,17 @@ Designed and facilitated active-learning group sessions for math and physics cla
 
 ## LEADERSHIP AND OUTREACH
 
-SETI Institute Technosignature Study Analysis Group				      2024-
+**SETI Institute Technosignature Study Analysis Group**				      2024-
 
 Executive Secretary of Steering Committee
 
 The SETI Institute Technosignatures SAG is advising on integration of technosignature search into NASA's Exoplanet Exploration Program. As the Executive Secretary to their Steering Committee, I will be documenting and understanding firsthand the NASA proposal process.
 
-Are we alone in the universe? arewealone.earth 					      2023-
+**Are we alone in the universe? arewealone.earth**					      2023-
 
 Researcher/Lead Moderator
 
-Exploring Your Universe 
+**Exploring Your Universe**
 
 Publicity Chair										2022-2023
 
@@ -135,25 +131,33 @@ Booth Coordinator									2024-2025
 
 Exploring Your Universe is UCLA?s biggest science fair, which garners over 10,000 visitors each year. I plan to be the President of EYU in the next two years, so I am fulfilling as many positions as possible before that.
 
-Big Sister STEM instagram.com/bigsisterstem 					2020-2023 Founder and President
+**ComSciCon SouthWest 2025 Conference Organizer**					      2024-
+
+I will be helping coordinate panels, catering, and venue logistics for the communicating science workshop for graduate students in 2025. This chapter will serve the SouthWest region of the United States.
+
+**Big Sister STEM** instagram.com/bigsisterstem 					2020-2023 Founder and President
 
 Big Sister STEM is a non-profit organization I founded to provide cost-free online STEM mentorship to girls and non-binary children in middle school and high school. I fostered the mentorship of over 30 students with the help of over 20 volunteers.
 
-Earth, Planetary, and Space Sciences Family Mentorship Program		2024-
+**Earth, Planetary, and Space Sciences Family Mentorship Program**		2024-
 
 Events Chair
 
-Society of Physics Students								2021-2022
+**Society of Physics Students at UCSD**								2021-2022
 
 Outreach Chair - Outstanding Chapter Award by SPS National
 
-UCSD Astronomy Club
+**UCSD Astronomy Club**
 
 Publicity Chair										2019-2020
 
 Vice President										2020-2021
 
 President										2021-2022	
+
+**Marginalized Idenities in Physics at UCSD**
+
+Secretary										2021-2022
 
 ## PRESENTATIONS
 
