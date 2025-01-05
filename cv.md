@@ -52,6 +52,8 @@ Megan G. Li, Karin M. Sandstrom, and Adam K. Leroy. (2022). A Resolved Search fo
 
 UCLA Eugene V. Cota-Robles Fellow 	    						2022-2026
 
+John N. Truex Research Award (UCLA Research Award)	$1000			2024
+
 UCLA Excellence in Science Communication Award $1000				2024
 
 University Fellowship from UCLA Division of Graduate Education ~$9000		Spring 2024
